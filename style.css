@@ -1,0 +1,50 @@
+body{
+    background-image: url(fon.jpg);
+}
+div{
+    margin: 0 auto;
+    width: 1200px;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 22px;
+}
+h1{
+    text-align: center;
+}
+.img {
+    display: block;
+    margin: auto;
+ }
+ul{
+    padding-top: 1px;
+    font-size: 22px;
+    line-height: 24pt;
+    margin-bottom: 1px;
+}
+footer{
+    margin-top: 20px;
+    text-align: center;
+}
+.line{
+    margin-top: -0.5pc;
+    line-height: 1.8pc;
+}
+h3{
+    display:inline;
+    margin-left: 50px;
+    text-align: justify;
+    line-height: 40px;
+}
+li{
+    margin-left: 100px;
+}
+code{
+    margin: 100px;
+}
+.other{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+h4{
+    margin-top: 1px;
+}
