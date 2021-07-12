@@ -29,3 +29,5 @@ const func = (num) => {
   return num + 1;
 };
 ```
+#### More information about my projects: 
+* [GitHub](https://dmitrieg1991.github.io/).
